@@ -1,0 +1,13 @@
+.main-footer{
+    color:white ;
+    background-color: rgba(0, 0, 0, 0.85);
+    padding-bottom: 2cm;
+    padding-top: 1cm;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+:root {
+    --mainWhite: #fff;
+  }
