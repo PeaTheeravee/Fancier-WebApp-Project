@@ -1,6 +1,4 @@
-# FANCIER
-เว็บไซต์สำหรับโพสต์กิจกรรม โปรเจครายวิชา 240-124 WEB DESIG & DEVELOPER MODULE
-Yr1 2/2564
+# FANCIER WebApp
+<img width="1540" height="600" alt="Image" src="https://github.com/user-attachments/assets/ddd530fe-1cf9-4eb4-b5aa-c249477f5487" style="margin-bottom: 20px;" />
 
-# Slide Presentation 
-https://www.canva.com/design/DAE3SG8bItQ/5H5c17480ckK1Ihuaw2NXQ/view?utm_content=DAE3SG8bItQ&utm_campaign=designshare&utm_medium=link&utm_source=editor
+เว็บแอปพลิเคชันประกาศกิจกรรมและลงทะเบียนสำหรับครูและนักเรียน โปรเจครายวิชา 240-124 Web Design & Developer Module 1st Year 2/2564 พัฒนาโดยใช้ React เป็น Frontend และ Django เป็น Backend
