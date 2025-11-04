@@ -1,4 +1,4 @@
-# FANCIER WebApp
+# Fancier WebApp
 
 เว็บแอปพลิเคชันประกาศกิจกรรมและลงทะเบียนสำหรับครูและนักเรียน โปรเจครายวิชา 240-124 Web Design & Developer Module 1st Year 2/2564 พัฒนาโดยใช้ React เป็น Frontend และ Django เป็น Backend
 
